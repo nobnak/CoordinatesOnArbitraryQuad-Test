@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/CoordinatesOnArbitraryQuad"]
+	path = Assets/Packages/CoordinatesOnArbitraryQuad
+	url = https://github.com/nobnak/CoordinatesOnArbitraryQuad.git
